@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atulya
 ==============================================================================================================================
 
-I like to train deep neural network
+I have a strong interest in software development and machine learning research.
 
-* 🌍  I'm based in India
-* 🧠  I'm learning ML
-* 🤝  I'm open to collaborating on Research and development of Neural network
+* 🌍  I'm based in India.
+* 🧠  I'm currectly learning to develop an algorithms.
+* 🤝  I'm open to collaborating on Research and development of Neural network.
 
 ### Skills
 
