@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have a strong interest in software development and machine learning research.
 
-* 🌍  I'm based in India.
+* 🌍  I'm based in Bangalore, Karnataka.
 * 🧠  I'm currently learning to develop an algorithms.
 * 🤝  I'm open to collaborating on Research and development of Neural network.
 
